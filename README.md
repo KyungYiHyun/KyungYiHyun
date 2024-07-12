@@ -1,6 +1,6 @@
 
 
-![a13901f5e3057.jpg](C:\Users\SSAFY\Desktop\a13901f5e3057.jpg)
+![a13901f5e3057](https://github.com/user-attachments/assets/a7f01713-be43-43ee-8a7e-3abe45aac912)
 
 
 
