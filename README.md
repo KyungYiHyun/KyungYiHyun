@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**KyungYiHyun/KyungYiHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![a13901f5e3057.jpg](C:\Users\SSAFY\Desktop\a13901f5e3057.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# 경이현입니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Projects
+
+---
+
+## 마감 임박 식품 판매 웹(7주/4명) Front- End [PL]
+
+기간 : 2024.04.15 ~ 2024.05.29 / 링크 : 깃허브 링크 달기
+
+마감 임박 상품 할인 판매
+
+**담당**
+
+- 페이지 UI 디자인 및 컴포넌트 설계
+- Axios를 사용하여 서버 API와 통신
+
+# Award
+
+---
+
+**SW전문인재양성사업 “웹킷640 4기 팀프로젝트 경연” 우수상 (2024.05.28)**
+
+**2024년 대학기업 협력형 SW아카데미 사업 ”경북 네트워크형 캠퍼스 SW아카데미” 장려상(2024.06.05)**
+
