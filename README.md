@@ -11,5 +11,5 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={mw0755}&theme=cold)
 <img src="http://mazandi.herokuapp.com/api?handle={mw0755}&theme=cold"/>
